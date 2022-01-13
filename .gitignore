@@ -1,0 +1,9 @@
+﻿Library
+UserSettings
+Temp
+obj
+Packages/packages-lock.json
+
+*.csproj
+*.sln
+*.md.meta
