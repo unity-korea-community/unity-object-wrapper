@@ -1,18 +1,18 @@
 {
-  "name": "com.unko.packagename",
+  "name": "com.unko.unity-object-wrapper",
   "version": "1.0.0",
-  "displayName": "UNKO packageName",
-  "description": "This is an example package",
+  "displayName": "UNKO Unity-Object-Wrapper",
+  "description": "Unity Object를 Mock 객체 세팅을 위해 Interface로 감싸고, Unity Inspector에서도 사용할 수 있는 class library입니다.",
   "unity": "2019.1",
   "author": {
     "name": "UNKO",
     "url": "https://github.com/unity-korea-community"
   },
   "bugs": {
-    "url": "https://github.com/unity-korea-community/unity-package-template/issues"
+    "url": "https://github.com/unity-korea-community/unity-wrapper/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/unity-korea-community/unity-package-template.git"
+    "url": "https://github.com/unity-korea-community/unity-wrapper.git"
   }
 }

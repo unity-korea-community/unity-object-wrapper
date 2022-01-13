@@ -1,0 +1,18 @@
+{
+    "name": "unko.unity-object-wrapper.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2297ade0b5a6f38498c16816c81fb7d0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
